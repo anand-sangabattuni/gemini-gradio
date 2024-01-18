@@ -1,16 +1,16 @@
-## Gemini Pro and Pro Vision Interface using Gradio
+# Gemini Pro and Pro Vision Interface using Gradio
 
-# Overview
+## Overview
 
 This repository contains an easy-to-use interface for the Gemini Pro and Pro Vision models using the Gradio library. Gradio simplifies the process of creating user interfaces for machine learning models, allowing users to interact with the models through a web interface.
 
-# Prerequisites
+## Prerequisites
 Before running the interface, make sure you have the following dependencies installed:
 
 - Python (>= 3.6)
 - Gradio (install using `pip install gradio`)
 
-# Installation
+## Installation
 1. Clone this repository:
 
     `git clone https://github.com/anand-sangabattuni/gemini-gradio.git`
@@ -23,7 +23,7 @@ Before running the interface, make sure you have the following dependencies inst
 
     `pip install -r requirements.txt`
 
-# Usage
+## Usage
 1. Run the Gradio interface:
 
     `python app.py`
@@ -32,13 +32,13 @@ Before running the interface, make sure you have the following dependencies inst
 
 3. Use the interface to interact with the Gemini Pro and Pro Vision models. Upload images or input data as required, and observe the model's predictions.
 
-# Customization
+## Customization
 Feel free to customize the interface based on your specific needs. You can modify the app.py file to change the layout, add new features, or adjust the input/output components.
 
-# Support and Feedback
+## Support and Feedback
 For any issues, questions, or feedback, please open an issue in the GitHub repository. We appreciate your contributions and suggestions!
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
