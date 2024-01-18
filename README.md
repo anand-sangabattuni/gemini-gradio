@@ -23,6 +23,10 @@ Before running the interface, make sure you have the following dependencies inst
 
     `pip install -r requirements.txt`
 
+## Obtaining API Key
+
+To use the Gemini Pro and Pro Vision models, you need to obtain an API key from Google Maker Studio(https://makersuite.google.com/). Follow the documentation on Google Maker Studio to obtain the API key and update the configuration in the app.py file.
+   
 ## Usage
 1. Run the Gradio interface:
 
