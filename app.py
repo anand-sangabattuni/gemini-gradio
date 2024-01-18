@@ -10,7 +10,7 @@ def image_to_base64(image_path):
     return encoded_string.decode('utf-8')
 
 # Set Google API key
-os.environ['GOOGLE_API_KEY'] = "AIzaSyDXdAL-57NNWkaZwgR-5Heydtus8kHCkDM"
+os.environ['GOOGLE_API_KEY'] = "YOUR_API_KEY"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 
