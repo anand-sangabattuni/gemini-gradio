@@ -43,6 +43,6 @@ Feel free to customize the interface based on your specific needs. You can modif
 For any issues, questions, or feedback, please open an issue in the GitHub repository. We appreciate your contributions and suggestions!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
 
 
